@@ -3,16 +3,11 @@ An education company named X Education sells online courses to industry professi
 #### A logistic regression model is made that assigns a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads.
 A typical lead conversion process can be represented using the following funnel:
 
-![download](https://github.com/vandit-s/Lead-scoring_X-Edu/assets/139586495/e434c821-9209-47c6-b5b7-5cb8ccecf66a)	&nbsp; &nbsp; &nbsp;
-![image](https://github.com/vandit-s/Lead-scoring_X-Edu/assets/139586495/7749571a-443b-4de0-b417-873a52382861) 	&nbsp; &nbsp; &nbsp;
-![download (1)](https://github.com/vandit-s/Lead-scoring_X-Edu/assets/139586495/751c4530-8459-424f-9b40-27e0982698a3)
+![download](https://github.com/vandit-s/Lead-scoring_X-Edu/assets/139586495/e434c821-9209-47c6-b5b7-5cb8ccecf66a)	&nbsp; &nbsp;
+![download (1) (1)](https://github.com/vandit-s/Lead-scoring_X-Edu/assets/139586495/a51f6927-bd4b-484e-9dbc-1933627b72dc) &nbsp; &nbsp;
+![XNote_201901081613670 (1)](https://github.com/vandit-s/Lead-scoring_X-Edu/assets/139586495/2720cc0d-e117-4fa1-96d1-afd93ee15af9)
 
+### The main motto of this model is to target potential leads so that X Education's sales team can achieve the target of an 80% lead conversion rate.
 
-
-
-## The main motto of this model is to target potential leads so that X Education's sales team can achieve the target of an 80% lead conversion rate.
-
-### This logistic regression model is prepared by 
-### Vandit Sardana, 
-### Saras Sangle,
-### Santosh
+### This logistic regression model is prepared by:
+### Vandit Sardana &nbsp; | &nbsp; Saras Sangle &nbsp; | &nbsp; Santosh
